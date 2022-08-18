@@ -9,7 +9,7 @@ body {
 
 .top {
     background-image: url('fondotop.png');
-    background-size: auto 100%;
+    background-size: cover;
     display: flex;
     flex-wrap: wrap;
 }
