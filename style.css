@@ -79,6 +79,10 @@ form {
     margin-bottom: 40px;
 }
 
+form input {
+    padding-left: 10px;
+}
+
 .form-input {
     width: 100%;
     min-width: 220px;
